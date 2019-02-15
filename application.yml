@@ -6,6 +6,9 @@ spring:
   profiles: dev
   application:
     name: myspringcloud-config-dev
+
+server:
+  port: 8003
 ---
 spring:
   profiles: test
