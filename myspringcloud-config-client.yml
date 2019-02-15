@@ -18,7 +18,7 @@ server:
 spring:
   profiles: test
   application:
-    name: microservicecloud-config-client
+    name: myspringcloud-config-client
 eureka:
   client:
     service-url:
